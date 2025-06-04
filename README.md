@@ -19,7 +19,7 @@
 
 ### 极简实现
 
-- 仅1个Java文件，32行代码  
+- 仅1个Java文件，36行代码  
 - 无事件监听  
 - 无配置文件  
 - 无权限系统  
@@ -86,7 +86,7 @@
 
 ### Minimal Implementation
 
-- Only one Java file with 32 lines of code  
+- Only one Java file with 36 lines of code  
 - No event listeners  
 - No configuration files  
 - No permission system  
