@@ -1,5 +1,3 @@
-# SuicideClean
-
 # 自裁无痕 (SuicideClean)
 
 ## 核心原则
