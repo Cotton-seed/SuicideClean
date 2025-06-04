@@ -65,11 +65,11 @@
 
 ## 声明
 
-本插件 PlayerListInfo-Velocity 免费开放使用，允许在非商业用途下修改和再发布。
+本插件 SuicideClean 免费开放使用，允许在非商业用途下修改和再发布。
 但修改后的版本必须在显著位置注明原作者（例如 README 或插件描述中），
 并附带原项目地址。
 
-项目地址: https://github.com/Cotton-seed/PlayerListInfo-Velocity/
+项目地址: https://github.com/Cotton-seed/SuicideClean/
 
 
 # SuicideClean
@@ -139,8 +139,8 @@ Fully embodying the "no-trace" philosophy, it offers the purest suicide function
 
 ## herald
 
-PlayerListInfo-Velocity is free to use and modify for non-commercial purposes.
+SuicideClean is free to use and modify for non-commercial purposes.
 However, any modified versions must clearly credit the original author
 (e.g., in the README or plugin description) and provide a link to the original repository.
 
-Original repository: https://github.com/Cotton-seed/PlayerListInfo-Velocity/
+Original repository: https://github.com/Cotton-seed/SuicideClean/
