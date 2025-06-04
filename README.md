@@ -30,7 +30,7 @@
 - 无延迟、无冷却  
 - 无任何额外检查  
 
-### 2b2t风格
+### 2B2T风格
 
 - 玩家一加入即默认拥有自杀权限  
 - 无管理功能  
@@ -97,7 +97,7 @@
 - No delay or cooldown  
 - No extra checks  
 
-### 2b2t Style
+### Anarchy server style
 
 - Players have permission immediately upon joining  
 - No management functions  
