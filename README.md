@@ -63,6 +63,12 @@
 
 完全契合“无痕”理念，提供最纯粹的自杀功能，无任何多余元素。
 
+#声明
+本插件 PlayerListInfo-Velocity 免费开放使用，允许在非商业用途下修改和再发布。
+但修改后的版本必须在显著位置注明原作者（例如 README 或插件描述中），
+并附带原项目地址。
+
+项目地址: https://github.com/Cotton-seed/PlayerListInfo-Velocity/
 
 
 # SuicideClean
@@ -129,3 +135,10 @@ This plugin strictly follows the 2b2t tradition:
 - **Zero Traces**: No suicide actions recorded in logs  
 
 Fully embodying the "no-trace" philosophy, it offers the purest suicide functionality without any extra elements.
+
+#herald
+PlayerListInfo-Velocity is free to use and modify for non-commercial purposes.
+However, any modified versions must clearly credit the original author
+(e.g., in the README or plugin description) and provide a link to the original repository.
+
+Original repository: https://github.com/Cotton-seed/PlayerListInfo-Velocity/
